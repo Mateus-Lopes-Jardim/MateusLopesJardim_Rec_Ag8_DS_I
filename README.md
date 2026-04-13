@@ -5,8 +5,8 @@ Pesquisa de Satisfação
 excelente = 0
 ruim = 0
 
-# Número de entrevistados (troque para 50 depois dos testes)
-total_entrevistados = 10  # use 50 na versão final
+# Número de entrevistados
+total_entrevistados = 10
 
 for i in range(total_entrevistados):
     print(f"\nEntrevistado {i + 1}")
